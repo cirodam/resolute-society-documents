@@ -40,12 +40,18 @@ The remaining documents are more specific applications of the foundation above. 
 ```
 Master plans/              — How the Society fulfills its obligations in each domain
   Agriculture.md
+  Climate_and_Meteorology.md
   Communications.md
+  Courier.md
+  Culture.md
   Energy.md
   Food_Security.md
   Healthcare.md
   Housing_Security.md
+  Judicial.md
+  Machining_and_Metallurgy.md
   Mortuary.md
+  Printing.md
   Sanitation.md
   Water_Security.md
 
