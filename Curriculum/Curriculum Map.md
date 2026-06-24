@@ -34,7 +34,7 @@ Formation courses — those that develop cognitive, epistemic, and interior capa
 
 ## Formation Courses
 
-**Status: Six courses written; two domains partially covered; several domains absent.**
+**Status: Seven courses written; formation sequence complete.**
 
 The formation courses form a sequence. Earlier courses build capacities that later courses require. The sequence is a recommendation, not a prerequisite wall — members benefit from entering at whatever point is accessible. But the sequence reflects the actual dependencies: attentional capacity is the substrate; reasoning and epistemics build on it; interior stability and relational presence develop alongside; honest engagement with the world as it is comes last, when the person has enough internal stability to look at it clearly without being destabilized.
 
@@ -46,12 +46,7 @@ The formation courses form a sequence. Earlier courses build capacities that lat
 | Presence and Understanding | 4 | Exists |
 | Interior Capacity | 5 | Exists |
 | Living Well in Difficult Times | 6 | Exists |
-| Civic and Democratic Life | — | **Needed — High** |
-| History of the Present Moment | — | **Needed — High** |
-
-**Civic and Democratic Life** — A Society that governs itself through sortition, petitions, and referenda needs members who understand what self-governance actually requires of them — not in theory but in practice. How to deliberate honestly. How to dissent constructively. How to hold authority accountable. How to participate in collective decision-making without either deferring to whoever seems most confident or turning every disagreement into a conflict. The governance documents describe the structures; this course builds the capacities those structures assume. Without it, the governance provisions are aspirational rather than functional.
-
-**History of the Present Moment** — The Society's axioms and institutional maintenance documents name the patterns that produced the current crisis: power concentration, capacity atrophy, commercial colonization, epistemic breakdown. Members who understand those patterns as history — as a traceable sequence of specific decisions and their consequences — relate to the Society's principles differently than members who encounter them as abstract propositions. This course traces the arc: what was built, what was abandoned, how it happened, and what the trajectory looks like from here. It is not a political course — it is a historical one, grounded in mechanism rather than grievance.
+| Civic and Democratic Life | 7 | Exists |
 
 ---
 
@@ -187,12 +182,10 @@ The governance documents describe what the Society does. This section addresses 
 ## Priority Summary
 
 **Formation and foundational — write next:**
-1. Civic and Democratic Life (Course 7)
-2. Technological Literacy (formation prerequisite)
-3. How the Society Governs Itself (member orientation)
-4. Emergency Response and First Aid
-5. History of the Present Moment (Course 8)
-6. Soil and Garden Fundamentals
+1. Technological Literacy (formation prerequisite)
+2. How the Society Governs Itself (member orientation)
+3. Emergency Response and First Aid
+4. Soil and Garden Fundamentals
 
 The first three address things the existing courses and governance structures assume members can do but don't teach. The fourth addresses a life-safety gap. The fifth and sixth begin the practical curriculum that the Division commitments require.
 
