@@ -78,7 +78,7 @@ When the Society brings a matter against a member — alleging conduct that harm
 
 ## Contractual Disputes
 
-The Society's internal economy — the kin currency, the exchange of labor and goods between members, the mutual obligations that community life generates — produces agreements between members. Most of these agreements will be informal and will be honored without dispute. Some will not.
+The Society's internal economy — society credits, the exchange of labor and goods between members, the mutual obligations that community life generates — produces agreements between members. Most of these agreements will be informal and will be honored without dispute. Some will not.
 
 The Division holds jurisdiction over disputes arising from any agreement between members, formal or informal. Members are encouraged to register significant agreements with the Division before any dispute arises — a registered agreement creates a clear record that simplifies any subsequent proceeding significantly. The Division should make registration straightforward and should encourage it without requiring it.
 

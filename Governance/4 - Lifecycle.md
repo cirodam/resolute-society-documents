@@ -56,9 +56,9 @@ Dissolution of a Resolute Society is always an act of its membership. No externa
 
 Upon dissolution, the membership shall determine by vote how the Society's assets — its commons, its physical property, its financial holdings, and any other resources held in common — are to be distributed. Members may distribute assets among themselves, transfer them to sister Societies or the federation, dedicate them to purposes consistent with this Definition, or any combination of these. Where the membership cannot reach agreement, assets pass to the federation to be held in trust and applied to purposes consistent with this Definition.
 
-### The Kin Currency
+### Society Credits
 
-The kin currency exists as a social tool for facilitating exchange within the Society. It has no value outside the community that sustains it. Upon dissolution, kin balances dissolve with the Society. The federation shall maintain a record of members' kin balances at dissolution as an acknowledgment of their contribution to the Society's common life, but is under no obligation to redeem or convert those balances.
+Society credits exist as a social tool for facilitating exchange within the Society. They have no value outside the community that sustains them. Federation credits, by contrast, facilitate exchange between member Societies within the federation and are administered at the federation level. Upon dissolution, society credit balances dissolve with the Society. The federation shall maintain a record of members' society credit balances at dissolution as an acknowledgment of their contribution to the Society's common life, but is under no obligation to redeem or convert those balances. Federation credit balances held by members at dissolution are unaffected and remain valid within the broader federation.
 
 ### Federation Administration
 

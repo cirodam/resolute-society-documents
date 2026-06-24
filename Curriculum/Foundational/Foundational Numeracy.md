@@ -128,7 +128,7 @@ Seasonal and planting schedules are practical contexts for this unit. Time is th
 
 Making change. Budgeting: income, fixed expenses, variable expenses, what remains. Calculating unit prices and comparing value: which is a better deal, 12 ounces for $2.40 or 16 ounces for $3.04? Understanding simple interest in plain terms.
 
-Reading a basic bill, statement, or invoice. The kin currency system and how it works numerically. The goal is functional financial literacy — enough to manage the learner's own resources, participate in the Society's economy, and not be exploited by opaque pricing or billing.
+Reading a basic bill, statement, or invoice. Society credits and federation credits — how each works numerically and when each applies. The goal is functional financial literacy — enough to manage the learner's own resources, participate in the Society's economy, and not be exploited by opaque pricing or billing.
 
 **Unit N11 — Data and Estimation (6–8 sessions)**
 
