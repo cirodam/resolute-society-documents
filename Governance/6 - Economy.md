@@ -5,6 +5,8 @@
 
 Society credits are the internal medium of exchange of a Resolute Society. They are not a substitute for external currency. They do not represent a claim on any external asset and have no value outside the community that sustains them. They exist to facilitate exchange, labor, and obligation within the Society without importing the accumulation dynamics and commercial logic the Society was built to resist. Every design feature of the credit system — the fixed supply, the demurrage, the treasury — follows from this purpose.
 
+Society credits are not a store of wealth and are not intended to be accumulated in large quantities. The resilience of a member and a Society rests on what cannot be burned or transferred: food stores, tools, skills, and relationships. Credits facilitate exchange in the present; the durable foundations of security lie elsewhere.
+
 ### The Credit Supply
 
 The total supply of society credits in circulation at any time is determined entirely by membership. For each member in good standing, sixty thousand (60,000) credits exist within the Society's economy. No credits exist beyond this amount. No Society may mint credits for any purpose other than member issuance, and no Society may allow total outstanding credits to exceed sixty thousand times current membership. The credit supply is a direct and continuous expression of the community's size.
@@ -81,11 +83,11 @@ No member may offer to exchange society credits for external currency, nor may a
 
 ### Administration and Transparency
 
-The Society shall designate a body — a treasurer, a finance working group, or equivalent — responsible for maintaining accurate records of the treasury balance, all individual member balances, all minting and burning events, all demurrage charges, and all allowance distributions. This body acts as steward of the record, not as governor of the economy; decisions about treasury expenditure remain with the membership through normal governance.
+The Ledger Division is responsible for maintaining accurate records of the treasury balance, all individual member balances, all minting and burning events, all demurrage charges, and all allowance distributions. The Ledger Division acts as steward of the record, not as governor of the economy; decisions about treasury expenditure remain with the membership through normal governance.
 
 All credit records shall be accessible to all members. No member's balance may be concealed from the membership. The Society shall publish a summary of the credit economy — total supply, treasury balance, total individual balances outstanding, monthly demurrage collected, and allowance distributed — at regular intervals no less frequent than quarterly.
 
-Disputes arising from credit transactions between members are subject to the Society's normal dispute resolution process. Disputes about the accuracy of recorded balances are resolved by the administrative body, subject to appeal to the membership.
+Disputes arising from credit transactions between members are subject to the Society's normal dispute resolution process. Disputes about the accuracy of recorded balances are resolved by the Ledger Division, subject to appeal to the membership.
 
 ---
 
@@ -189,8 +191,16 @@ Federation credits may not be:
 
 No Society may offer to exchange federation credits for external currency or society credits, nor may any member transact on behalf of a Society in a manner that violates these restrictions.
 
+---
+
+## Ledger Division
+
+Every Resolute Society is required to maintain a Ledger Division. The Ledger Division is the designated body responsible for maintaining the Society's credit records — the society credit ledger and the federation credit ledger segment. It does not govern either economy; that authority remains with the membership through normal democratic processes. It maintains the record.
+
+The Ledger Division is the Society's point of contact for all inter-society coordination involving federation credit transactions, reconciliation, and ledger disputes. Other Societies and the federation direct ledger-related communication to the Ledger Division. A Society that does not maintain a functioning Ledger Division is in breach of federation standards.
+
 ### Administration
 
-Each Society designates a body responsible for maintaining its federation ledger segment, publishing the required public figures, participating in annual reconciliation, and resolving internal disputes about federation credit balances. This body coordinates with counterpart bodies in other Societies to settle inter-society transactions and resolve discrepancies between ledger segments.
+The Ledger Division is responsible for maintaining the Society's federation ledger segment, publishing the required public figures, participating in annual reconciliation, and resolving internal disputes about federation credit balances. The Ledger Division coordinates with counterpart Ledger Divisions in other Societies to settle inter-society transactions and resolve discrepancies between ledger segments.
 
 Disputes between Societies about the validity of a transaction — where one Society's ledger segment records an entry that the other's does not, or where the two records conflict — are escalated to the federation's dispute resolution process. Neither Society's record is presumed correct; the federation process examines both segments and the underlying transaction record to determine the authoritative entry.

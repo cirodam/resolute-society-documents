@@ -8,6 +8,8 @@ The division is not an institution that exists apart from the community it serve
 
 Every human community until very recently maintained its own health capacity — midwives, herbalists, lay healers, and knowledgeable elders who managed most of what ailed people without physicians or hospitals. The professionalization of medicine has concentrated that knowledge in institutions and credentials, leaving most communities helpless when those institutions are unavailable. That knowledge is recoverable. The community health worker is not an innovation — it is a recovery of something that was always there.
 
+The division builds on a foundation of individual and household competence. Basic first aid — stopping bleeding, treating a burn, recognizing when something is serious — is a competency every member is expected to hold. Household medication management, first aid kit maintenance, and awareness of each member's health needs are household-level responsibilities. The division does not substitute for these. It builds on them, extends beyond them, and through the community health worker program supports members in maintaining them. A household that cannot manage its own first aid kit or does not know its members' chronic conditions has not delegated those tasks to the division — it has left a gap that no division can fully fill.
+
 ## Mandate
 
 The division is responsible for four things:

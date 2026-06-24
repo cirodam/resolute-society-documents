@@ -62,7 +62,7 @@ The division maintains a seed library — a community collection of open-pollina
 
 ## Household Agricultural Support
 
-The division builds food growing capacity at the household level — helping members grow food at home using whatever space and resources they have. As with all division programs, the goal is knowledge and capacity held broadly across the community. The division organizes and supports; members grow.
+Growing food at the household level is a household responsibility. A member household that has space and capacity to grow vegetables is expected to do so — it is part of what a household in the Resolute Society does, not an optional extra. The division's role here is to teach, enable, and support that obligation — providing seeds, knowledge, and guidance — not to grow food on behalf of households that could grow it themselves. The division organizes and supports; members grow.
 
 **A household garden's primary contribution is nutrition, not calories.** This is an important expectation to set correctly. A typical home garden produces significant amounts of vegetables — leafy greens, tomatoes, peppers, herbs — but will not replace staple calories for most households. The exceptions are calorie-dense crops like sweet potatoes, potatoes, and dried beans, which can produce meaningfully at small scale. Members should understand their garden as a source of nutrients, variety, and resilience rather than caloric sufficiency, and plan their food security accordingly.
 
