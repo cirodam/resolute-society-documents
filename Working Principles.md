@@ -204,6 +204,8 @@ The Society commits to recognizing genuine moral tragedy as a category and respo
 
 This commitment requires the Society to resist the pull toward judgment that tragedy tends to generate in observers. Tragedy is uncomfortable to witness. The discomfort of watching someone navigate an impossible situation creates pressure to resolve that discomfort by finding something the person did wrong — some point at which a different choice would have produced a better outcome. That pressure is understandable. It is also a form of self-protection that comes at the person's expense. The Society names that pressure honestly and commits to resisting it. The person in the tragedy is not there to resolve our discomfort about the situation they are in.
 
+A further consequence follows from the nature of moral tragedy itself. When a person is genuinely navigating a moral tragedy — a situation in which legitimate values are in genuine irreconcilable conflict and no choice fully honors all of what matters — external imposition of a specific resolution substitutes outside judgment for the deliberation of the person who must bear the consequences, without being able to eliminate what makes the situation tragic. The tragedy persists underneath whatever is imposed. What changes is not the irreconcilable conflict — that remains — but who navigates it, or rather who is denied that navigation. The Society therefore holds that where a genuine moral tragedy is being navigated, external authority to impose a specific resolution does not exist — not because external parties cannot form views, but because external imposition cannot do what it purports to do. It selects an outcome without inhabiting the tragedy it claims to resolve, and compounds the unavoidable loss with the removal of the only agency the person inside actually possessed.
+
 *Derived from Axiom IV.*
 
 ### Principle 19. Moral Particularity
@@ -389,3 +391,19 @@ The Society commits to periodic review of its own institutional complexity — a
 The pressure toward complexity is constant and rational. Every problem the Society encounters will generate proposals for institutional responses. Each proposal will be individually justified. The accumulated cost of justified additions is the trap Axiom XIII names. We resist it not by refusing to solve problems but by insisting that every solution be evaluated against its full lifecycle cost — including the cost of maintaining it long after the problem it solved has been forgotten.
 
 *Derived from Axiom XIII.*
+
+### Principle 34. The Legitimate Domain of Law
+
+External compulsion is justified only where innate moral reasoning fails to regulate behavior adequately. This is not a preference for minimal law. It is a claim about what law actually does when it enters territory that innate moral reasoning already occupies.
+
+Where innate reasoning fails — where people genuinely would harm each other without external constraint, where coordination requires a rule that no individual would naturally observe in isolation, where systemic pressure overwhelms ordinary moral perception — law does real work. It compels behavior that would otherwise not occur. The cost of compulsion is real, but what it purchases is real too.
+
+Where innate reasoning succeeds — where people are already navigating the relevant judgments adequately, where the behavior law claims to regulate is already regulated by the person's own moral sense — law adds nothing to aggregate outcomes. People were already doing what the law requires. What law adds is not behavior change. It is rigidity.
+
+Rigidity has a cost that is not immediately visible: the exceptional case. Innate moral reasoning is fine-grained. It can see the particular situation — the specific circumstances, the genuine tragedy, the case that is genuinely different from the pattern the rule was built for. Law is blunt. It cannot see that case. It applies the rule regardless. The person who needed the exception gets the rule instead.
+
+This is the paradox at the heart of overcriminalization: **law is most harmful precisely where it is most redundant.** The more completely a prohibition codifies what people would do anyway, the less it changes aggregate behavior — and the more completely it destroys the space where genuine exceptions live. The harm is not incidental to what the law is doing. It is structural. Built into the nature of the intervention itself.
+
+The corollary follows directly: where the Society seeks to shape behavior, it should ask first whether innate moral reasoning, operating under adequate conditions, already produces the relevant outcome. Where it does, the Society's role is not to codify that outcome through compulsion but to strengthen the conditions — accurate information, genuine freedom, absence of coercion — under which innate reasoning operates well. That is the more demanding obligation and the more honest one.
+
+*Derived from Axioms IV, IX, and XII.*

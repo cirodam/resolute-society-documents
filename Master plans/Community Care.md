@@ -10,7 +10,7 @@ The axioms ground this plainly. Human dignity does not diminish with age or disa
 
 The Community Care Division is not a service department. It is the community organized around the fact that persons at every stage of life and every level of capacity have equal standing, and that a community that fails to act on that premise has failed something central to what it is.
 
-The division's scope is defined by the baseline. Ordinary household life — cooking, cleaning, managing one's own affairs, maintaining social relationships — is a person and household responsibility. The division exists specifically for members who cannot meet that baseline because of age, disability, or circumstance. It does not absorb what capable households should handle themselves; it serves the members for whom the household tier is not sufficient.
+The division's scope is defined by the baseline. Ordinary household life — cooking, cleaning, managing one's own affairs, maintaining social relationships — is a person and household responsibility. The division exists specifically for members who cannot meet that baseline because of age, disability, or circumstance. This includes parents of young children who lack adequate household or community support — a single parent with an infant, a household in crisis, a parent who is ill. It does not absorb what capable households should handle themselves; it serves the members for whom the household tier is not sufficient.
 
 ## Mandate
 

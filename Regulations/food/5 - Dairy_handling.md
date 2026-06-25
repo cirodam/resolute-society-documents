@@ -284,7 +284,7 @@ In 2014 a community dairy in Oregon experienced a sustained period of elevated c
 
 ## 5.6 Raw Milk Risks and Community Decision Framework
 
-**Standard:** The Ben Franklin Society recognizes that the decision to consume raw milk is a genuine community decision involving tradeoffs between risk, nutrition, accessibility, and community values — not a simple regulatory prohibition to be replicated. This standard does not prohibit raw milk consumption. It requires that the decision be made with full understanding of the risks involved, that vulnerable community members be identified and protected, and that raw milk distributed within the community meet the production standards in 5.1 through 5.5 as a minimum condition of distribution.
+**Standard:** The Resolute Society recognizes that the decision to consume raw milk is a genuine community decision involving tradeoffs between risk, nutrition, accessibility, and community values — not a simple regulatory prohibition to be replicated. This standard does not prohibit raw milk consumption. It requires that the decision be made with full understanding of the risks involved, that vulnerable community members be identified and protected, and that raw milk distributed within the community meet the production standards in 5.1 through 5.5 as a minimum condition of distribution.
 
 **The risk profile of raw milk:**
 
@@ -307,7 +307,7 @@ Raw milk carries risks that pasteurized milk does not, from pathogens that survi
 
 **Community decision framework:**
 
-The decision to distribute raw milk within the Ben Franklin Society community shall be made at the community level with the following information explicitly considered.
+The decision to distribute raw milk within the Resolute Society community shall be made at the community level with the following information explicitly considered.
 
 *Minimum production standards for any raw milk distributed:*
 
