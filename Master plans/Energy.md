@@ -129,7 +129,7 @@ Air sealing matters more than insulation in most existing homes. Air infiltratio
 
 Thermal curtains over windows add R-4 to R-6 per window in addition to reducing convective heat loss from cold glass surfaces. Windows are the weakest point in any building envelope — even double-pane windows achieve only R-2 to R-3, compared to R-13 or better for insulated walls. Closing thermal curtains at sunset and opening them on south-facing windows during daylight hours meaningfully reduces heating load.
 
-**Wood is the most resilient heating fuel** — it is locally available in most of the continental United States, renewable, and requires no supply chain beyond the tools to harvest and process it. The division should facilitate wood heating capability across the community and maintain community woodlot access and harvesting capacity.
+**Wood is the most resilient heating fuel** — it is locally available in most of the continental United States, renewable, and requires no supply chain beyond the tools to harvest and process it. The division should facilitate wood heating capability across the community. Firewood production, seasoning, and distribution are the Forestry Division's function; the two divisions should coordinate on the community's actual annual wood fuel demand so that the Forestry Division's production program is calibrated against it.
 
 Firewood must be seasoned before burning. Green wood — freshly cut — contains 50% or more water by weight, produces significantly less heat per cord, burns incompletely, and generates far more creosote. Seasoning requires a minimum of six months of air drying, preferably twelve, with wood split, stacked off the ground, and covered on top while remaining open on the sides for airflow. A community that begins cutting and splitting firewood today for use next winter is operating on the correct timeline. A community that cuts it in October for use in December is not.
 
@@ -330,6 +330,9 @@ Cooking energy is inseparable from food security. Stored food that cannot be coo
 
 **Housing Security**
 The built environment is the Energy Division's primary leverage point — a well-insulated, well-sited structure requires dramatically less energy to heat and cool than a poorly performing one. The two divisions should coordinate on the Liberty House design standards, weatherization programs, and any community construction that creates long-term energy obligations. The masonry heater as the heart of the Liberty House is a design decision with structural, fuel, and construction implications that both divisions must own together.
+
+**Forestry**
+Firewood is the community's most resilient solid fuel, and the Forestry Division manages its production. The two divisions should maintain a shared understanding of the community's annual wood fuel demand — for heating, cooking, and any kiln or industrial uses — so that the Forestry Division's harvest and seasoning program is producing enough to meet it. The Energy Division's weatherization work directly reduces the volume the Forestry Division needs to supply; gains on the building envelope side reduce pressure on the forest. Strategic tree placement for passive solar shading and windbreak purposes is a joint design concern.
 
 ## Operational Posture
 

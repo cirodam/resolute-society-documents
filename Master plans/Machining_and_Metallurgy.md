@@ -148,8 +148,8 @@ Energy production equipment — generators, wind turbines, water wheels, solar m
 **Education**
 The knowledge the Division holds is among the most demanding the Society transmits. The Education Division should treat metallurgy, smithing, and machining as priority domains for apprenticeship development and should work with the Division to ensure that knowledge transmission is actively supported rather than left entirely to the Division's own initiative.
 
-**Printing**
-The Printing Division's press equipment, type, and binding tools require metal fabrication and maintenance. The Division should be familiar with the Printing Division's equipment and capable of repairing or replacing its components.
+**Book Arts**
+The Book Arts Division's press equipment, type, and binding tools require metal fabrication and maintenance. The Division should be familiar with the Book Arts Division's equipment and capable of repairing or replacing its components.
 
 ---
 

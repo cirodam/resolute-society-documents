@@ -1,8 +1,8 @@
-# Printing Division — Master Plan
+# Book Arts Division — Master Plan
 
 ## Mission
 
-The Printing Division exists to ensure that the Resolute Society can produce physical documents, books, and written materials from locally available resources — independent of supply chains, corporate infrastructure, or grid power. It does this by holding and practicing the knowledge and craft of papermaking, ink production, press operation, hand-copying, and bookbinding, and by producing the paper, ink, and bound materials the Society needs from what the land provides.
+The Book Arts Division exists to ensure that the Resolute Society can produce physical documents, books, and written materials from locally available resources — independent of supply chains, corporate infrastructure, or grid power. It does this by holding and practicing the knowledge and craft of papermaking, ink production, press operation, hand-copying, and bookbinding, and by producing the paper, ink, and bound materials the Society needs from what the land provides.
 
 The Division is a production operation. Its outputs are physical goods — paper, ink, binding materials, and finished documents — not services rendered on request. It holds a craft tradition and keeps it alive through practice, produces materials the Society depends on, and transmits its knowledge to each generation of members so that the capability cannot be lost to the death or departure of any individual.
 
