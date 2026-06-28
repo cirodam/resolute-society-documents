@@ -38,9 +38,17 @@ Any person may become a provisional member of a Society upon the vouching of a c
 
 A provisional member becomes a full member upon taking the membership oath before witnesses drawn from the membership. The oath is a public commitment to the obligations of membership and to the purposes of the Society. Full members are eligible for all forms of participation, including sortition selection to governing bodies.
 
-### Obligations of Membership
+### The Membership Covenant
 
-Membership is not merely a status — it is an ongoing commitment. Members bear genuine obligation to the common life: to participate in the work of the Society, to attend to its governance, to act with honesty and care toward fellow members, and to transmit what they know to those who come after them. The Society, in turn, bears obligation to each member — to build the conditions in which they can genuinely flourish.
+Membership in a Resolute Society is a covenant — not a contract. A contract is a transaction: specified performance for specified return, terminated when obligations are satisfied, enforceable by its terms. A covenant is something older and more serious: a mutual and unconditional claim that neither party can discharge by payment, transfer, or performance, and that persists through circumstance.
+
+The covenant runs in both directions.
+
+Each member holds a genuine claim on the community — to be fed, to be housed with dignity, to have meaningful work available, to be cared for when need arises. This claim is unconditional. It does not depend on the member's current productivity, their health, their age, or their recent contribution. A member who is sick, struggling, or in a season of diminished capacity does not thereby forfeit their claim. The community's obligation to that member is not suspended by their circumstance — it is precisely their circumstance that activates it.
+
+The community holds an equally genuine claim on each member — to show up when genuinely needed, to contribute what they reasonably can, to carry their share of the common work, and to be the kind of member who honors what they have received. This obligation is not a schedule of services. It cannot be satisfied by a payment or discharged by a transaction. It is a standing commitment to the common life, responsive to what the community actually needs rather than fixed in advance by a contract.
+
+Neither claim can be liquidated. A member cannot buy their way out of the obligation to show up. The community cannot pay a member's way out of their claim on it. The obligations are not owed but honored — not enforced but kept, not calculated but lived. This is what distinguishes the Society from a market. Markets clear debts. The covenant does not accrue debts; it creates ongoing obligations that are permanent for the duration of membership and extinguished only when membership ends.
 
 ### Membership and Institutional Compatibility
 

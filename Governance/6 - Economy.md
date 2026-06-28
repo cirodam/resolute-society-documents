@@ -52,11 +52,31 @@ Demurrage does not apply to the treasury. The treasury is the collective pool of
 
 ### Monthly Allowance
 
+The monthly allowance is the Society's material expression of the membership covenant. Every member holds an unconditional claim on this community — to be fed, to be housed with dignity, to have meaningful work available, to be cared for when need arises. The allowance gives that claim economic form: it is the guarantee that every member enters each month with some capacity for exchange within the internal economy, regardless of their circumstances in the month before. It is not a payment for services rendered. It is not contingent on contribution, rank, or tenure. It is the economy honoring what the community has already promised.
+
 A Society may establish a monthly credit allowance distributed from the treasury to all members in good standing. The allowance, if established, shall be equal for all members. The amount, and whether an allowance is offered at all, is determined by the Society through its normal democratic process and may be revised at any time.
 
 The allowance is not a wage. It does not vary with contribution, rank, tenure, or any other individual characteristic. If offered, it is offered to every member equally as a basic participation floor — a guarantee that every member enters each month with some capacity for exchange within the internal economy, regardless of their activity in the prior month.
 
 The treasury must be capable of sustaining the monthly allowance without depletion. A Society may not authorize an allowance that would reduce the treasury below a reserve floor established in its constitution. If the treasury falls below this floor, the allowance is suspended until the floor is restored.
+
+### Capital Calls
+
+The Society may, through a specific governance-authorized process, receive dollar contributions from members in exchange for credits disbursed from the treasury. This mechanism — a capital call — is the sole authorized pathway by which external currency may enter the credit economy, and it operates under strict conditions designed to preserve the integrity of that economy.
+
+A capital call is a treasury disbursement, not a minting event. No credits are created by a capital call; the total credit supply remains fixed at sixty thousand times current membership throughout. The treasury pays existing credits to contributing members; those credits come from the treasury's accumulated balance — received from member admissions, demurrage, and ceiling redirections. A capital call may not proceed if the treasury's available credit balance is insufficient to cover the credits it would disburse. The General Assembly shall verify treasury sufficiency before authorizing any call.
+
+A capital call may be opened only upon authorization by the General Assembly. The authorization must specify: the purpose the call serves, the total ceiling in dollars the call may not exceed, the rate at which treasury credits will be disbursed per dollar contributed, and the deadline by which the call closes if the ceiling has not been reached. No capital call may proceed without all four elements present in the authorizing resolution.
+
+The purpose must be a specific, identified Society expenditure that cannot be met from the dollar treasury — a bulk purchasing order, a piece of capital equipment, an infrastructure investment. Routine operating costs do not qualify. The call exists to mobilize member resources for a specific community purpose, not to supply the treasury with dollars on an ongoing basis.
+
+The call closes upon whichever occurs first: the ceiling is reached, the deadline passes, or the declared purpose is otherwise met. No contributions may be accepted after closure. The same purpose may not be the subject of more than one open call simultaneously. Credits are disbursed to contributing members as contributions are received; they are not held pending full funding of the call. Dollar contributions received through a capital call are held in the Society's dollar treasury and applied exclusively to the declared purpose.
+
+Credits received through a capital call are society credits in every respect: subject to demurrage, the individual balance ceiling, and all restrictions on use that apply to credits received through any other means. The dollar contribution is not a loan and does not entitle the contributor to the return of dollars under any circumstances. Closure of the call, whether at ceiling or deadline, creates no dollar obligation on the Society.
+
+The rate — credits per dollar — is set by the General Assembly at the time of authorization and may not be changed while the call is open. The purpose, ceiling, rate, deadline, and current amount raised are matters of public record accessible to all members at all times while the call is open.
+
+Only current members in good standing may contribute to a capital call. This mechanism creates no pathway for non-members to acquire society credits or to gain any standing within the Society through financial contribution.
 
 ### Member Departure
 
